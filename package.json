@@ -1,0 +1,22 @@
+{
+  "name": "is-gethushan",
+  "version": "1.0.0",
+  "description": "It's a basic package for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gethushan/is-gethushan-npm-package.git"
+  },
+  "keywords": [
+    "gethushan"
+  ],
+  "author": "Gethushan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gethushan/is-gethushan-npm-package/issues"
+  },
+  "homepage": "https://github.com/gethushan/is-gethushan-npm-package#readme"
+}
